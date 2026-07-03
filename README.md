@@ -1,4 +1,3 @@
-```md
 # Hi there! 👋 I'm **Yukeshwaran V K**
 
 ### 🚀 Aspiring AI Automation Engineer | Python Learner | Building One Project at a Time
@@ -114,4 +113,3 @@ Every repository here represents another step in my learning journey. I'm always
 If you find something useful or interesting, feel free to explore my repositories or leave a ⭐ on any project you enjoy.
 
 Have a great day, and happy coding! 🚀
-```
